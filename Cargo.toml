@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"podaac",
+	"podaac_py",
+	"podaac_cpp",
+]
